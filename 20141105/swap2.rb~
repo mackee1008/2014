@@ -1,0 +1,6 @@
+# swap2.rb
+a = 12
+b = 25
+puts "a = #{a}, b = #{b}"
+a, b = b, a
+puts "a = #{a}, b = #{b}"

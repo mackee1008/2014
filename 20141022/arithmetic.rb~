@@ -1,0 +1,4 @@
+# -*- coding: utf-8 -*-
+# arithmetic.rb
+print 13 / 5, "\n"
+print 12 % 7, "\n" # 整数のみ

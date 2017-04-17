@@ -1,0 +1,2 @@
+# datatypr.rb
+str1 = ARGV[0]

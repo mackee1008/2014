@@ -1,0 +1,46 @@
+Loading term/bobcat...done
+For information about GNU Emacs and the GNU system, type <f1> C-a.
+Transient-Mark mode disabled
+Transient-Mark mode enabled
+Case-Insensitive Search disabled globally
+Case-Insensitive Search enabled globally
+Blink-Cursor mode disabled
+Blink-Cursor mode enabled
+call-interactively: End of buffer
+(New file)
+byte-code: End of bufferError during redisplay: (jit-lock-function 40) signaled (error "Point 64 after end of properties")
+Auto-saving...done
+Saving file c:/home/Algo/20141008/simplecalc1.rb...
+Wrote c:/home/Algo/20141008/simplecalc1.rb
+Saving file c:/home/Algo/20141008/simplecalc1.rb...
+Wrote c:/home/Algo/20141008/simplecalc1.rb
+Saving file c:/home/Algo/20141008/simplecalc1.rb...
+Wrote c:/home/Algo/20141008/simplecalc1.rb
+Saving file c:/home/Algo/20141008/simplecalc1.rb...
+Wrote c:/home/Algo/20141008/simplecalc1.rb
+Saving file c:/home/Algo/20141008/simplecalc1.rb...
+Wrote c:/home/Algo/20141008/simplecalc1.rb
+Saving file c:/home/Algo/20141008/simplecalc1.rb...
+Wrote c:/home/Algo/20141008/simplecalc1.rb
+Saving file c:/home/Algo/20141008/simplecalc1.rb...
+Wrote c:/home/Algo/20141008/simplecalc1.rb
+Mark set
+Auto-saving...done
+Saving file c:/home/Algo/20141008/simplecalc1.rb...
+Wrote c:/home/Algo/20141008/simplecalc1.rb
+delete-forward-char: End of buffer
+(New file)
+Error during redisplay: (jit-lock-function 78) signaled (error "Point 103 after end of properties")
+Auto-saving...
+Saving file c:/home/Algo/20141008/simplecalc2.rb...
+Wrote c:/home/Algo/20141008/simplecalc2.rb
+Quit [3 times]
+Loading quail/japanese...done
+Making input-method-function buffer-local while locally let-bound!
+Saving file c:/home/Algo/20141008/simplecalc2.rb...
+Wrote c:/home/Algo/20141008/simplecalc2.rb
+Saving file c:/home/Algo/20141008/simplecalc3rb...
+Wrote c:/home/Algo/20141008/simplecalc3rb
+Saving file c:/home/Algo/20141008/simplecalc3rb...
+Wrote c:/home/Algo/20141008/simplecalc3rb
+Mark set

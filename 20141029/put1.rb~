@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+# put1.rb
+print "こんにちは！"
+puts "こんにちは！"
+pets "こんにちは！"
